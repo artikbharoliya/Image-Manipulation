@@ -116,9 +116,10 @@ To save the file press ctrl+s to save the image.
 
 Enter the name of the image to be saved.
 
-![image 6](E:\Northeastern\PDP\project5\ss\image 6.png)
+![image 6](https://github.com/artikbharoliya/Image-Manipulation/blob/main/reference%20images/image%206.png)
 
 To save the cross-stitch pattern just add extension of file name as .txt after generating the cross stitch image.
 
 If you want to save image as image file you can skip adding extension. Image will be saved as jpg image. However if you want to save file as .png or .bmp add the extension after the file name.
 
+> The code is not provided because this project is complies with the "Code of Conduct" terms and conditions of [NorthEastern University](http://www.northeastern.edu/osccr/code-of-student-conduct/).
