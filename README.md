@@ -122,4 +122,6 @@ To save the cross-stitch pattern just add extension of file name as .txt after g
 
 If you want to save image as image file you can skip adding extension. Image will be saved as jpg image. However if you want to save file as .png or .bmp add the extension after the file name.
 
+
+
 > The code is not provided because this project is complies with the "Code of Conduct" terms and conditions of [NorthEastern University](http://www.northeastern.edu/osccr/code-of-student-conduct/).
