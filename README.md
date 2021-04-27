@@ -74,7 +74,7 @@ These are the supported commands and their description.
 To load and save images go to File menu and choose the appropriate function. 
 
 
-
+![image 3](https://github.com/artikbharoliya/Image-Manipulation/blob/main/reference%20images/image%203.png)
 The effect menu contains 
 
 - Blur
@@ -94,4 +94,31 @@ The effect menu contains
 - Mosaic
 
   Shortcut (Hot keys) are indicated in the menu for the functions.
+  
+  
+![image 4](https://github.com/artikbharoliya/Image-Manipulation/blob/main/reference%20images/image%204.png)
+
+
+
+The cross-stitch menu contains the option to generate cross stitch pattern from the image.
+
+
+
+![image 5](https://github.com/artikbharoliya/Image-Manipulation/blob/main/reference%20images/image%205.png)
+
+
+
+To create Batch file click on the "Create Batch File" button. Enter your commands and click execute button to run the commands.
+
+##### Saving of file:
+
+To save the file press ctrl+s to save the image.
+
+Enter the name of the image to be saved.
+
+![image 6](E:\Northeastern\PDP\project5\ss\image 6.png)
+
+To save the cross-stitch pattern just add extension of file name as .txt after generating the cross stitch image.
+
+If you want to save image as image file you can skip adding extension. Image will be saved as jpg image. However if you want to save file as .png or .bmp add the extension after the file name.
 
