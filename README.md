@@ -69,13 +69,11 @@ These are the supported commands and their description.
 
 ##### GUI:
 
-![](E:\Northeastern\PDP\project5\ss\image 1.png)
+
 
 To load and save images go to File menu and choose the appropriate function. 
 
 
-
-![image 3](E:\Northeastern\PDP\project5\ss\image 3.png)
 
 The effect menu contains 
 
