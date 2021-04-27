@@ -69,7 +69,7 @@ These are the supported commands and their description.
 
 ##### GUI:
 
-
+![alt text](https://github.com/artikbharoliya/Image-Manipulation/blob/main/reference%20images/image%201.png)
 
 To load and save images go to File menu and choose the appropriate function. 
 
