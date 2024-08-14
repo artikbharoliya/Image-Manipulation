@@ -124,4 +124,4 @@ If you want to save image as image file you can skip adding extension. Image wil
 
 
 
-> The code is not provided because this project is complies with the "Code of Conduct" terms and conditions of [NorthEastern University](http://www.northeastern.edu/osccr/code-of-student-conduct/).
+> The code is not provided because this project complies with the "Code of Conduct" terms and conditions of [NorthEastern University](http://www.northeastern.edu/osccr/code-of-student-conduct/).
